@@ -92,5 +92,12 @@ Switch to production endpoints only once you've completed SCB's onboarding/testi
 
 ---
 
+## References
+
+- [SCB Developer Portal — Getting Started](https://developer.scb/#/documents/documentation/basics/getting-started.html) — official SCB Partner API reference, including OAuth, QR payment creation, and billpayment inquiry endpoint specs used in this repo.
+
+---
+
 ## License
-GNU GPLv3
+
+Add your license here.
