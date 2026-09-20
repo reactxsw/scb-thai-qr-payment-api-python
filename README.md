@@ -93,5 +93,4 @@ Switch to production endpoints only once you've completed SCB's onboarding/testi
 ---
 
 ## License
-
-Add your license here.
+GNU GPLv3
